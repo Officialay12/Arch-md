@@ -27,7 +27,7 @@ global.onlygroup = process.env.ONLYGC_MSG  || "Sorry buddy the bot won't work di
 
 global.simbol = "♘"
 global.tempatDB = 'database.json' // dont change might cause big errors 
-global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
+global.pairing_code = true // if deploying on panel set true if on any other platform leave it false
 
 // Settings Image Url
 global.image = {
