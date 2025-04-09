@@ -1,8 +1,8 @@
 /* 
 
-   Contact: https://wa.me/2347036214381
+   Contact: https://wa.me/2349159180375
    Telegram: https://t.me/Ednut_x    
-   Developer : https://wa.me/2348102487241
+   Developer : https://wa.me/2349159180375
   
 */
 
